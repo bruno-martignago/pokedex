@@ -1,0 +1,6 @@
+Configurar Git Local;
+git config --global user.name bruno-martignago
+git config --global user.email brunomartignago106@gmail.com
+
+Criar um projeto MVC
+dotnet new mvc -o Pokedex
