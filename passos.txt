@@ -8,3 +8,6 @@ dotnet new mvc -o Pokedex
 Para executar o projeto
 cd Pokedex
 dotnet watch run
+
+
+parei no slide 125
