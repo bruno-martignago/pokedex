@@ -10,10 +10,5 @@ public class Pokemon
     public double Altura { get; set; }
     public double Peso { get; set; }
     public string Imagem { get; set; }
-
-    public Pokemon()
-    {
-        Tipo = new List<string>();
-    }
 }
 
